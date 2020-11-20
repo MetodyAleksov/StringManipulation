@@ -11,7 +11,7 @@ namespace _04.CaesarCipher
 
             for (int i = 0; i < input.Length; i++)
             {
-                input[i] = input[i] + 3;
+                input[;
             }
         }
     }
