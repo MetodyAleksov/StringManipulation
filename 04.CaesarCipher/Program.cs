@@ -6,12 +6,12 @@ namespace _04.CaesarCipher
     {
         static void Main(string[] args)
         {
-            char[] input = Console.ReadLine()
-                .ToCharArray();
-
-            for (int i = 0; i < input.Length; i++)
+            string input = Console.ReadLine();
+            string result = String.Empty;
+            foreach (char item in input)
             {
-                input[;
+                var curr = (char)(item + 3);
+                Console.Write(curr);
             }
         }
     }
