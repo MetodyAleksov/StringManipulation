@@ -21,13 +21,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.ExtractFile", "03.Extrac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.CaesarCipher", "04.CaesarCipher\04.CaesarCipher.csproj", "{1C47848E-7B8A-447F-BD27-974E47E3C8EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.MiltuplyBigNum", "05.MiltuplyBigNum\05.MiltuplyBigNum.csproj", "{B0672201-07C9-4A98-A8B1-7021EF57C7E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.MiltuplyBigNum", "05.MiltuplyBigNum\05.MiltuplyBigNum.csproj", "{B0672201-07C9-4A98-A8B1-7021EF57C7E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ReplaceRepeatingChars", "06.ReplaceRepeatingChars\06.ReplaceRepeatingChars.csproj", "{4EA7A8D9-9D83-499B-8176-F93D7E09C104}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.ReplaceRepeatingChars", "06.ReplaceRepeatingChars\06.ReplaceRepeatingChars.csproj", "{4EA7A8D9-9D83-499B-8176-F93D7E09C104}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.StringExplosion", "07.StringExplosion\07.StringExplosion.csproj", "{57BB5C30-4436-4C6D-9342-19FB599A7AC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.StringExplosion", "07.StringExplosion\07.StringExplosion.csproj", "{57BB5C30-4436-4C6D-9342-19FB599A7AC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.LettersChangeNumbers", "08.LettersChangeNumbers\08.LettersChangeNumbers.csproj", "{0324A66F-4704-4C30-95F4-6FD215776685}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.LettersChangeNumbers", "08.LettersChangeNumbers\08.LettersChangeNumbers.csproj", "{0324A66F-4704-4C30-95F4-6FD215776685}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ExtractPersonalInformation", "01.ExtractPersonalInformation\01.ExtractPersonalInformation.csproj", "{77C2C3B1-7262-4BED-A5EF-EC81811A8602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.AciiSumator", "02.AciiSumator\02.AciiSumator.csproj", "{9ACCA04F-D9E2-463D-9884-8C6E4865695F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.TreasureFinder", "03.TreasureFinder\03.TreasureFinder.csproj", "{43DF783A-75F3-4D35-B1C9-60607386A66E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +93,18 @@ Global
 		{0324A66F-4704-4C30-95F4-6FD215776685}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0324A66F-4704-4C30-95F4-6FD215776685}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0324A66F-4704-4C30-95F4-6FD215776685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77C2C3B1-7262-4BED-A5EF-EC81811A8602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C2C3B1-7262-4BED-A5EF-EC81811A8602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C2C3B1-7262-4BED-A5EF-EC81811A8602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C2C3B1-7262-4BED-A5EF-EC81811A8602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ACCA04F-D9E2-463D-9884-8C6E4865695F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ACCA04F-D9E2-463D-9884-8C6E4865695F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ACCA04F-D9E2-463D-9884-8C6E4865695F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ACCA04F-D9E2-463D-9884-8C6E4865695F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43DF783A-75F3-4D35-B1C9-60607386A66E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43DF783A-75F3-4D35-B1C9-60607386A66E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43DF783A-75F3-4D35-B1C9-60607386A66E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43DF783A-75F3-4D35-B1C9-60607386A66E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
